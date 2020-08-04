@@ -10,4 +10,4 @@ My current expertise covers:
 - GatsbyJS
 - Contentful
 
-Soon I will also add a link to my fresh new website 😉
+⇨ [My Website](https://www.fcipriani.com)
