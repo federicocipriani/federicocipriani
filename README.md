@@ -8,6 +8,7 @@ My current expertise covers:
 - Vanilla JavaScript
 - ReactJS
 - GatsbyJS
+- Three.js (including Physijs)
 - Contentful
 
 ⇨ [My Website](https://www.fcipriani.com)
