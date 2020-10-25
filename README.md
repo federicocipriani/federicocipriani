@@ -10,5 +10,6 @@ My current expertise covers:
 - GatsbyJS
 - Three.js (including Physijs)
 - Contentful
+- API
 
 ⇨ [My Website](https://www.fcipriani.com)
