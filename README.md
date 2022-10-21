@@ -1,15 +1,9 @@
 # Hello 👨🏼‍💻!
 
-I'm Federico, a **Front-End Developer** living in the UK.
+I'm Federico, both an aerospace engineer who loves coding and an **iOS developer** currently living in the Germany.
 
-Feel free to explore my repositories below.
-My current expertise covers:
-- HTML/CSS3
-- Vanilla JavaScript
-- ReactJS
-- GatsbyJS
-- Three.js (including Physijs)
-- Contentful
-- API
+I played around with many things before ending up in iOS development (data science, ethical hacking, web development), but I finally found my Ikigai.
+
+You can find my old repositories when I was learning and developing my HTML, CSS, Javascript and ReactJS skills, but also the new projects I am developing in SwiftUI.
 
 ⇨ [My Website](https://www.fcipriani.com)
